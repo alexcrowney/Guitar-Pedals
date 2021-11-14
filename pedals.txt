@@ -3,6 +3,7 @@ Pedals
 Boss TU-2
 EHX Octave Multiplexer
 Proco Rat
+Caroline Météore
 SansAmp VT
 
 EBS DC4-90F
